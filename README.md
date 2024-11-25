@@ -3,7 +3,7 @@
 
 ## Education
 - B.S., Game Design & Development | SUNY Canton (_August 2024_)
-- A.S., Information Management | Dutchess Community College  (_May 2020_)
+- A.S., Information Management | SUNY Dutchess (_May 2020_)
 
 
 
