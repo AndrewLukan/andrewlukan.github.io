@@ -2,7 +2,7 @@
 #### Technical Skills: C++, C#, Python, SQL
 
 ## Education
-- B.S., Physics | State University of New York at Canton (_August 2024_)
+- B.S., Game Design & Development | State University of New York at Canton (_August 2024_)
 - A.S., Information Management | Dutchess Community College  (_May 2020_)
 
 ## Work Experience
