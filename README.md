@@ -10,7 +10,7 @@
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
-**IT Consultant**
+### IT Consultant
 [List of PC's Concepted](https://www.mdpi.com/1424-8220/22/8/3048)
 - Help clients create desktop PC builds that meet their specifications. From game development, video rendering, 3D modeling, animation, and gaming, clients have had their needs met with the PC's concepted.
 - Personally builds the PC's if clients are not comfortable handling hardware themselves.
