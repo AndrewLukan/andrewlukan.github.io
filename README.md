@@ -24,7 +24,8 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 ![Wolfjam Logo](/assets/img/wolfjam_2024_logo.png)
 
 ### Wolfjam 2024 Game Jam Project
-[itch.io](https://www.mdpi.com/1424-8220/22/11/4240)\n
+[itch.io](https://www.mdpi.com/1424-8220/22/11/4240)
+
 [Design Documentation](https://drive.google.com/drive/folders/1d-V23zNvIJopcz0WWJy0Ifrtp5WnXJuj?usp=sharing)
 
 This was a 24 hour game jam, but in reality it was was less. The jam officially started at 9PM, and the venue closed at 11PM. We were able to We started developing the next day at 9:30 AM until 10:30 PM to allow the build to export and submit.
