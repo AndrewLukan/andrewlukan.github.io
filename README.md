@@ -10,11 +10,10 @@
 ## Work Experience
 ### Game Industry - N/A
 - I'm a fresh graduate looking for my first opportunity in the games industry! I want to contribute to experiences that will leave an impact on players, just as so many games have done for me.
-### Personal Business - Independent IT Consultant
-- Receive requests to build drafts, upgrade, and optimize computers in my local area. Discuss the benchmark goals and budget of each build. Work with clients to educate on the process to become self-sufficient. Aim to be as beginner-friendly and hassle-free as possible. Personally assemble computer hardware if customers are not comfortable doing so themselves. Install operating systems and performed diagnostics to ensure proper functionality for clients.
 
-### IT Consultant
+### Personal Business - Independent IT Consultant
 [List of PC's Concepted](https://www.mdpi.com/1424-8220/22/8/3048)
+- Receive requests to build drafts, upgrade, and optimize computers in my local area. Discuss the benchmark goals and budget of each build. Work with clients to educate on the process to become self-sufficient. Aim to be as beginner-friendly and hassle-free as possible. Personally assemble computer hardware if customers are not comfortable doing so themselves. Install operating systems and performed diagnostics to ensure proper functionality for clients.
 - Help clients create desktop PC builds that meet their specifications. From game development, video rendering, 3D modeling, animation, and gaming, clients have had their needs met with the PC's concepted.
 - Personally builds the PC's if clients are not comfortable handling hardware themselves.
 
