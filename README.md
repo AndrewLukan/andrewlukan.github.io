@@ -21,7 +21,7 @@
 ### Senior Capstone Project
 ![SUNY Canton](/assets/img/SUNY_Canton_seal.png)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+In this year-long project, we were tasked with creating a vertical slice for a video game. I was the designer in my team. I created the thematic, aesthetic and core gameplay pillars of our game, then ran it by my teammates. I was the communication between my teammates' progress and my producer. We discussed the limits of implementation, working with programmers and artists to make sure the work was reasonable and done on time, and decided to go about each week in a waterfall methodology of development. I needed to adjust the scope of the design's aspects as the project was ongoing, adding and cutting concepts as the schedule allowed. I learned about a designer's role of being the vision for the team. Several times, members weren't completely in sync with the design. I created reference videos for my animator, documented references for my 3D modelers, and wrote out flowcharts for the gameplay and level progression.
 
 ### Wolfjam 2024 Game Jam Project
 ![Wolfjam Logo](/assets/img/wolfjam_2024_logo.png)
