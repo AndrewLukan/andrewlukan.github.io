@@ -25,7 +25,7 @@ In this year-long project, we were tasked with creating a vertical slice for a v
 
 ### Wolfjam 2024 Game Jam Project - Goblin Dice
 ![Wolfjam Logo](/assets/img/wolfjam_2024_logo.png)
-[itch.io](https://www.mdpi.com/1424-8220/22/11/4240)
+[itch.io](https://camcommand.itch.io/goblin-dice)
 
 [Design Documentation](https://drive.google.com/drive/folders/1d-V23zNvIJopcz0WWJy0Ifrtp5WnXJuj?usp=sharing)
 
