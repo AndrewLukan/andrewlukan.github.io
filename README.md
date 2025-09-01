@@ -11,12 +11,6 @@
 ### Game Industry - N/A
 - I'm a fresh graduate looking for my first opportunity in the games industry! I want to contribute to experiences that will leave an impact on players, just as so many games have done for me.
 
-### Personal Business - Independent IT Consultant
-[List of PC's Concepted](https://www.mdpi.com/1424-8220/22/8/3048)
-- Receive requests to build drafts, upgrade, and optimize computers in my local area. Discuss the benchmark goals and budget of each build. Work with clients to educate on the process to become self-sufficient. Aim to be as beginner-friendly and hassle-free as possible. Personally assemble computer hardware if customers are not comfortable doing so themselves. Install operating systems and performed diagnostics to ensure proper functionality for clients.
-- Help clients create desktop PC builds that meet their specifications. From game development, video rendering, 3D modeling, animation, and gaming, clients have had their needs met with the PC's concepted.
-- Personally builds the PC's if clients are not comfortable handling hardware themselves.
-
 ## Projects
 ### Senior Capstone Project
 ![SUNY Canton](/assets/img/SUNY_Canton_seal.png)
@@ -39,3 +33,9 @@ This was my first ever game jam. The theme of "connection" was revealed, and my 
 [Design Documentation](https://docs.google.com/document/d/1zsB-nAsQitzjAKcwBvdjieOgvfSlWKWodUiyfphb6LA/edit?usp=sharing)
 
 During this jam, I was more familiar with the time constraints and socializing aspects of jams. I found teammates very quickly. There were 4 of us this time, and I took on the responsibilities of UI/UX once again, as well as being the producer. I timelined all responsibilities after our design was finalized. We were precise enough to finish all initial design goals with 6 hours to spare, so I discussed more work and implementation with my designer. The theme of this jam was "bubbles," which was very difficult for us to think of gameplay ideas around. 
+
+### Personal Business - Independent IT Consultant
+[List of PC's Concepted](https://www.mdpi.com/1424-8220/22/8/3048)
+- Receive requests to build drafts, upgrade, and optimize computers in my local area. Discuss the benchmark goals and budget of each build. Work with clients to educate on the process to become self-sufficient. Aim to be as beginner-friendly and hassle-free as possible. Personally assemble computer hardware if customers are not comfortable doing so themselves. Install operating systems and performed diagnostics to ensure proper functionality for clients.
+- Help clients create desktop PC builds that meet their specifications. From game development, video rendering, 3D modeling, animation, and gaming, clients have had their needs met with the PC's concepted.
+- Personally builds the PC's if clients are not comfortable handling hardware themselves.
